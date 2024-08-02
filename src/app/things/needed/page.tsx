@@ -30,12 +30,17 @@ const page = () => {
         but there are some kind of restrictions as well, but only for your own
         safety, no outisde after 20:00, I will always have to walk somewhat
         behind you (although holding your hand), so no other person sees you in
-        bad places and more
+        bad places and more <br/>
+        Also, I dont need you for a day, a month, a year or a decade, but my entire lifetime <br/>
+        And after encountering things like se*ual abuse myself, I just want to say I would never want any that kind of pleasure from you, neither I would ever accept you as my friend with benefits, I just want you as my lifetime partner <br/>
+        My mom taught me to judge people by thier soul and not appearance and as I have said since we ever met, I always loved your soul and never ever how you look, according to me everybody has to get old one day so looks dont matter, but for this generation it does because of thier dirty and wild thoughts
+        <br/>
+        <u>So my ultimate partner would be someone who understands my and only my soul and makes me stress-free for my entire life and thats just it, it would become my own pleasure to make that person or more accurately that soul happy all the time</u>
       </h1>
       <h1 className=" text-white font-extrabold text-5xl">In return</h1>
       <h1 className=" text-white font-semibold text-xl">
         I will treat you like my mom says for my entire lifetime close to a
-        goddess, for example, your happiness brings prosperous to us, your feet
+        goddess, for example, your happiness brings prosperous to us (so my first priority as well as my pleasure is your happiness), your feet
         is my entire world no other gs are to be accepted in that world and more{' '}
       </h1>
     </main>
