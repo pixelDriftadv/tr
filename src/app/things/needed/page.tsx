@@ -2,7 +2,7 @@ import React from 'react';
 
 const page = () => {
   return (
-    <main className="flex min-h-screen bg-[#1e2124] flex-col items-center text-center space-y-6 p-24">
+    <main className="flex min-h-screen bg-[#1e2124] flex-col items-center text-center space-y-6 py-24 px-6">
       <h1 className=" text-white font-extrabold text-5xl">Needed</h1>
       <br />
       <br />
