@@ -3,7 +3,7 @@ import React from 'react';
 
 const Page = () => {
   return (
-    <main className="flex min-h-screen bg-[#7289da] flex-col items-center text-center space-y-6 p-24">
+    <main className="flex min-h-screen bg-[#7289da] flex-col items-center text-center space-y-6 py-24 px-6">
       <h1 className="text-white font-semibold text-xl">Besides could you say who is itz_sahil_732, asiff_zayn and itz_kalam afterall? <br/>
       if I get to know {"you're"} lying or catch you lying then dont expect me either, I got myself to a place I could absolutely abandon you, so be honest<br/>
      Also, why have you kept blocking me all the time while its easy for you to follow other boys? And you could also laugh with other boys in my absence, but not with me<br/>
