@@ -9,7 +9,7 @@ const Page = () => {
         show you all of my accounts and messages, give you all of my credentials
         if you ever doubted me without even a second delay, but I also expect
         the same from you and not {'"I don\'t trust boys"'} kind of excuses or
-        denials
+        denials, you wanted me to delete my instagram account? well, anything for my love
         <br />
         <br />
         You could build better mindset, you sometimes talk rubbish being honest,
