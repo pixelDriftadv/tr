@@ -32,7 +32,7 @@ const page = () => {
         behind you (although holding your hand), so no other person sees you in
         bad places and more <br/>
         Also, I dont need you for a day, a month, a year or a decade, but my entire lifetime <br/>
-        And after encountering things like se*ual abuse myself, I just want to say I would never want any that kind of pleasure from you, neither I would ever accept you as my friend with benefits, I just want you as my lifetime partner <br/>
+        And after encountering things like se*ual abuse myself, I just want to say I would never want any of that kind of pleasure from you, neither I would ever accept you as my friend with benefits, I just want you as my lifetime partner <br/>
         My mom taught me to judge people by thier soul and not appearance and as I have said since we ever met, I always loved your soul and never ever how you look, according to me everybody has to get old one day so looks dont matter, but for this generation it does because of thier dirty and wild thoughts
         <br/>
         <u>So my ultimate partner would be someone who understands my and only my soul and makes me stress-free for my entire life and thats just it, it would become my own pleasure to make that person or more accurately that soul happy all the time</u>
