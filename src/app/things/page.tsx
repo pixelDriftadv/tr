@@ -6,6 +6,14 @@ const Page = () => {
     <main className="flex min-h-screen bg-[#7289da] flex-col items-center text-center space-y-6 p-24">
       <h1 className=" text-white font-extrabold text-5xl mb-28">Besides could you say who is itz_sahil_732 and itz_kalam afterall? <br/>
       if I get to know {"you're"} lying or catch you lying then dont expect me either, I got myself to a place I could absolutely abandon you, so be honest</h1>
+      <h1 className=" text-white font-extrabold text-5xl mb-28">Also, why have you kept blocking me all the time while its easy for you to follow other boys? And you could also laugh with other boys in my absence, but not with me<br/>
+       Look, If you dont like me just say it already, I request you to not waste my time or yours, its completely useless, <br/>
+        Or if you think you started this relation as a mistake and now can end it because I would get hurt then its totally okay, just say it to me, my life is a disaster already <br/>
+        I wont get hurt, wont do anything stupid or suicidal I promise, just say it <br/>
+        If you just clear it out, no more time would be wasted, I already live a extreme stress-ful life, I wont really stress over even more seeing new boys you follow or they follow you, just think about it <br/>
+        And please dont lie this time, like I sometimes believe jeon_abrooo is your alternate account and you follow other boys with it and post stories for them, I dont really want to stress more, I really think my mind would blast anyday, my head really hurts in the back every single day, appointed with a doctor, stress was the only cause behind it<br/>
+        So, I think I deserve humanity even for once from your side, so please I request sort it out
+      </h1>
       <h1 className=" text-white font-extrabold text-5xl mb-28">Things</h1>
       <Link href={'/things/needed'}>
         <button
