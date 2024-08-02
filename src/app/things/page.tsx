@@ -10,7 +10,7 @@ const Page = () => {
        Look, If you dont like me just say it already, I request you to not waste my time or yours, its completely useless, <br/>
         Or if you think you started this relation as a mistake and now can end it because I would get hurt then its totally okay, just say it to me, my life is a disaster already <br/>
         I wont get hurt, wont do anything stupid or suicidal I promise, just say it <br/>
-        If you just clear it out, no more time would be wasted, I already live a extreme stress-ful life, I really dont want to stress over even more seeing new boys you follow or they follow you, just think about it <br/>
+        If you just clear it out, no more time would be wasted, I already live a extreme stress-ful life, I really dont want to stress over even more, seeing new boys you follow or they follow you, just think about it <br/>
         And please dont lie this time, like I sometimes believe jeon_abrooo is your alternate account and you follow other boys with it and post stories for them, I dont really want to stress more, I really think my mind would blast anyday, my head really hurts in the back every single day, appointed with a doctor, stress was the only cause behind it<br/>
         So, I think I deserve humanity even for once from your side, so please I request sort it out
       </h1>
