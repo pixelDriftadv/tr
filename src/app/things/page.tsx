@@ -4,7 +4,7 @@ import React from 'react';
 const Page = () => {
   return (
     <main className="flex min-h-screen bg-[#7289da] flex-col items-center text-center space-y-6 p-24">
-      <h1 className=" text-white font-extrabold text-5xl mb-28">anyways could you say who is itz_sahil_732 and itz_kalam afterall? <br/>
+      <h1 className=" text-white font-extrabold text-5xl mb-28">Besides could you say who is itz_sahil_732 and itz_kalam afterall? <br/>
       if I get to know {"you're"} lying or catch you lying then dont expect loyalty from my side either so be honest</h1>
       <h1 className=" text-white font-extrabold text-5xl mb-28">Things</h1>
       <Link href={'/things/needed'}>
